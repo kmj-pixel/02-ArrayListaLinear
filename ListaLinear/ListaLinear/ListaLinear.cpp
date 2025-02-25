@@ -120,6 +120,7 @@ void buscarElemento()
 	}
 	if (number == 0) {
 		cout << "O número não foi encontrado" << endl;
+
 	}
 	
 	
